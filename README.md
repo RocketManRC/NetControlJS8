@@ -14,8 +14,8 @@ To run the application:
 
 $ npm start
 
-This software has been tested  with MacOS Catalina (10.15.6) and OS X El Capitan (10.11.6). 
-Also Windows 10 and Linux Debian 10 and Ubuntu 20.04.1 LTS.
+This software has been tested with MacOS Catalina (10.15.6) and OS X El Capitan (10.11.6). 
+Also with Windows 10, Linux Debian 10 and Ubuntu 20.04.1 LTS.
 
 There may be an issue that has to be resolved manually after using NPM to install on Linux. See here:
 
