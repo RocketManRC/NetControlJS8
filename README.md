@@ -1,5 +1,5 @@
 # NetControlJS8
- A NodeJS/Electron application to assist Net Control with JS8Call.
+A NodeJS/Electron cross-platform application to assist Net Control with JS8Call.
  
 # Installation
 Make sure you have a recent LTS version of Node.js. I was using Node.js v14.15.3 and NPM 6.14.10.
@@ -13,6 +13,13 @@ $ npm install
 To run the application:
 
 $ npm start
+
+This software has been tested  with MacOS Catalina (10.15.6) and OS X El Capitan (10.11.6). 
+Also Windows 10 and Linux Debian 10 and Ubuntu 20.04.1 LTS.
+
+There may be an issue that has to be resolved manually after using NPM to install on Linux. See here:
+
+https://github.com/electron/electron/issues/17972#issuecomment-487369441
 
 # Notes
 This application uses the UDP API of JS8Call version 2.2.0. It is important that the UDP 
