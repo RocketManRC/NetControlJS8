@@ -1,5 +1,7 @@
 # NetControlJS8
 A NodeJS/Electron cross-platform application to assist Net Control with JS8Call.
+
+![Photo](images/NetControlJS8rpi1.png)
  
 # Installation
 Make sure you have a recent LTS version of Node.js. I was using Node.js v14.15.3 and NPM 6.14.10.
