@@ -19,7 +19,18 @@ This application uses the UDP API of JS8Call version 2.2.0. It is important that
 port number in JS8Call matches the port number in this application which is currently
 coded to be 2242.
 
-The settings in JS8Call to enable the UDP API must be set.
+JS8Call can be found here:
+
+http://files.js8call.com/latest.html
+
+The settings in JS8Call to enable the UDP API must be set. This is on the Reporting
+tab of the Settings dialog.
+
+![Photo](images/settings2.jpeg)
+
+Also the setting to "Allow sending standard messages without callsign" should NOT be checked.
+
+![Photo](images/settings1.jpeg)
 
 The use of this software is discussed in the following Groups.io topic:
 
