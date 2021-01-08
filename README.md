@@ -1,6 +1,7 @@
 # NetControlJS8
 A NodeJS/Electron cross-platform application to assist Net Control with JS8Call.
 
+
 ![Photo](images/NetControlJS8rpi1.png)
  
 # Installation
@@ -16,8 +17,9 @@ To run the application:
 
 $ npm start
 
-This software has been tested with MacOS Catalina (10.15.6) and OS X El Capitan (10.11.6). 
-Also with Windows 10, Linux Debian 10 and Ubuntu 20.04.1 LTS.
+This software has been tested with MacOS Catalina (10.15.6), OS X El Capitan (10.11.6) and 
+also with Windows 10, Linux Debian 10 and Ubuntu 20.04.1 LTS. It even runs on the 
+Raspberry Pi (tested on version 4) which is the screenshot above.
 
 There may be an issue that has to be resolved manually after using NPM to install on Linux. See here:
 
