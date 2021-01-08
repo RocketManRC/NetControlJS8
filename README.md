@@ -24,20 +24,17 @@ https://github.com/electron/electron/issues/17972#issuecomment-487369441
 # Notes
 This application uses the UDP API of JS8Call version 2.2.0. It is important that the UDP 
 port number in JS8Call matches the port number in this application which is currently
-coded to be 2242.
-
-JS8Call can be found here:
-
-http://files.js8call.com/latest.html
-
-The settings in JS8Call to enable the UDP API must be set. This is on the Reporting
-tab of the Settings dialog.
+coded to be 2242. This is on the Reporting tab of the Settings dialog.
 
 ![Photo](images/settings2.jpeg)
 
 Also the setting to "Allow sending standard messages without callsign" should NOT be checked.
 
 ![Photo](images/settings1.jpeg)
+
+JS8Call can be found here:
+
+http://files.js8call.com/latest.html
 
 The use of this software is discussed in the following Groups.io topic:
 
@@ -46,3 +43,7 @@ https://groups.io/g/js8call/topic/net_communications_using_js8/79148254
 and in the following document:
 
 https://qsl.net/nf4rc/2021/ProposedNetCheckInProtocolV100.pdf 
+
+A brief story about the history of this software can be read here:
+
+https://rocketmanrc.com/netcontroljs8.html
